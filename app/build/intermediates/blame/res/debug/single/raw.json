@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\Project03\\app\\build\\intermediates\\res\\merged\\debug\\raw\\another.mp3",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\Project03\\app\\src\\main\\res\\raw\\another.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\Project03\\app\\build\\intermediates\\res\\merged\\debug\\raw\\zxing_beep.ogg",
+        "source": "C:\\Users\\Daniel\\.android\\build-cache\\3613ea41bcb0385f0428e0dcdf889f9042e0043e\\output\\res\\raw\\zxing_beep.ogg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\Project03\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\Daniel\\.android\\build-cache\\ab6e3436f9c2b60b3763eca2c9a9ed9a7f7b51ff\\output\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\Project03\\app\\build\\intermediates\\res\\merged\\debug\\raw\\boop.mp3",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\Project03\\app\\src\\main\\res\\raw\\boop.mp3"
+    }
+]

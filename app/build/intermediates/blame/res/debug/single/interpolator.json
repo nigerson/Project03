@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\Project03\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_fast_out_slow_in.xml",
+        "source": "C:\\Users\\Daniel\\.android\\build-cache\\c22ddf2ee4d2ff365c79ca1c476216ff93587281\\output\\res\\interpolator\\mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\Project03\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_linear_out_slow_in.xml",
+        "source": "C:\\Users\\Daniel\\.android\\build-cache\\c22ddf2ee4d2ff365c79ca1c476216ff93587281\\output\\res\\interpolator\\mr_linear_out_slow_in.xml"
+    }
+]
